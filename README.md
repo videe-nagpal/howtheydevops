@@ -486,9 +486,9 @@ Happy Learning!
 
 ### More Infra & DevOps projects
 
-<p align="center"><a href="https://github.com/bregman-arie/devops-exercises"><img src="images/devops_exercises.png"/></a></p>
-<p align="center"><a href="https://github.com/bregman-arie/devops-resources"><img src="images/devops_resources.png"/></a></p>
-<p align="center"><a href="https://github.com/bregman-arie/infraverse"><img src="images/infraverse.png"/></a></p>
+<p align="center"><a href="https://github.com/videe-nagpal/devops-exercises"><img src="images/devops_exercises.png"/></a></p>
+<p align="center"><a href="https://github.com/videe-nagpal/devops-resources"><img src="images/devops_resources.png"/></a></p>
+<p align="center"><a href="https://github.com/videe-nagpal/infraverse"><img src="images/infraverse.png"/></a></p>
 
 ### Credits
 * Inspired by [Howtheytest](https://github.com/abhivaikar/howtheytest) from [Abhijeet Vaikar](https://github.com/abhivaikar)
